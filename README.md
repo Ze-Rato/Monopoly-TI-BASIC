@@ -13,6 +13,9 @@ First of all download 'Image9.8ca' and store it on your calculator as Image9 (Th
 
 ## Some Pictures
 ![monopoly1](https://github.com/user-attachments/assets/f4ed50f6-ea48-496d-80d2-1e1462873418)
+![monopoly2](https://github.com/user-attachments/assets/20c5d666-20fd-4d12-8410-a391419d9f0b)
+![monopoly3](https://github.com/user-attachments/assets/ebb8e7e8-62fa-4215-83fe-6158689247b3)
+![monopoly4](https://github.com/user-attachments/assets/6e8a22e1-0c35-425f-b615-628cc76bc26f)
 
 
 ## Upadtes and Patches
