@@ -3,11 +3,11 @@
 ## General Info
 Inspired on the classic board game 'Monopoly'. 
 First of all download 'Image9.8ca' and store it on your calculator as Image9 (This is the game board).
-To set up a game run *MONOSET*, you can choose from 2 to 4 players! You will then be prompted to enter a name for each player.
-After setting up the game run *MONOPLAY* to play the game.
-
-As of now this is more of a proof of concept than anything and to practice algorithms a bit. You can move, buy houses, pay rent and that's about it.
-There is not really a schedule for updates I'll update this repo when I feel like it or if I receive interesting suggestions.
+<br>To set up a game run *MONOSET*, you can choose from 2 to 4 players! You will then be prompted to enter a name for each player.
+<br>After setting up the game run *MONOPLAY* to play the game.
+<br>
+<br>As of now this is more of a proof of concept than anything and to practice algorithms a bit. You can move, buy houses, pay rent and that's about it.
+<br>There is not really a schedule for updates I'll update this repo when I feel like it or if I receive interesting suggestions.
 
 
 
