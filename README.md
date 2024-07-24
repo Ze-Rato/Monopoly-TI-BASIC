@@ -4,7 +4,7 @@
 Inspired on the classic board game 'Monopoly'. To set up a game run *MONOSET*, you can choose from 2 to 4 players! You will then be prompted to enter a name for each player.
 After setting up the game run *MONOPLAY* to play the game.
 
-As of now this is more of a proof of concept than anything and to practice algorithms a bit. 
+As of now this is more of a proof of concept than anything and to practice algorithms a bit. You can move, buy houses, pay rent and that's about it.
 There is not really a schedule for updates I'll update this repo when I feel like it or if I receive interesting suggestions.
 
 
